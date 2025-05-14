@@ -19,3 +19,8 @@ Power BI Line chart, Area chart -  Recording: https://drive.google.com/file/d
 
 Power BI Drill through -  Recording: https://drive.google.com/file/d/1iJraBP2c5gDDT5zM_dS3Ilk0hvCNU9mN/view?usp=sharing
 
+Power BI Waterfall chart, tree map -  Recording: https://drive.google.com/file/d/1rHwu53yp4IY9Qpb-b5c8z1O7w6HsDSYy/view?usp=sharing
+
+Power BI Guage chart, Scatter chart -  Recording: https://drive.google.com/file/d/1drIvcJ2PpbMpLeYTWCEKsWiwEoU5mx6N/view?usp=sharing
+
+
