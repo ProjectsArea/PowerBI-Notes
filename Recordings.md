@@ -24,3 +24,8 @@ Power BI Waterfall chart, tree map -  Recording: https://drive.google.com/fil
 Power BI Guage chart, Scatter chart -  Recording: https://drive.google.com/file/d/1drIvcJ2PpbMpLeYTWCEKsWiwEoU5mx6N/view?usp=sharing
 
 Power BI Cards -  https://drive.google.com/file/d/1EtVUeQu4VHcQr2ZQVx6u0ODfDsyYT4jm/view?usp=sharing
+
+Power  BI Cards part 2, Slicers - https://drive.google.com/file/d/1oZHzsmJ2MCxYT6cujvEXbNEEEQ8pmaQ0/view?usp=sharing
+
+
+Power BI Sales Report - https://drive.google.com/file/d/13sXDH1y4PiSvFkkQK8PHRPovjVE2Dn1u/view?usp=sharing
